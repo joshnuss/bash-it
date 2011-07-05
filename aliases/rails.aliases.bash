@@ -11,6 +11,7 @@ alias rp='rails plugin'
 alias ra='rails application'
 alias rd='rails destroy'
 alias dbm='rake db:migrate'
+alias bx='bundle exec'
 
 alias ss='script/server'
 alias ts="thin start"     # thin server
