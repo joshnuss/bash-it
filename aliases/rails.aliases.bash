@@ -34,6 +34,8 @@ function rails-help() {
   echo "  rp          = rails plugin"
   echo "  ra          = rails application"
   echo "  rd          = rails destroy"
+  echo "  dbm         = rake db:migrate"
+  echo "  bx          = bundle exec"  
   echo "  restartapp  = touch tmp/restart.txt"
   echo "  restart     = touch tmp/restart.txt"
   echo "  devlog      = tail -f log/development.log"
